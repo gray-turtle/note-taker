@@ -3,7 +3,7 @@ const { notes } = require('./db/db.json');
 const fs = require('fs');
 const path = require('path');
 
-const PORT = process.env.port || 3002;
+const PORT = process.env.PORT || 3002;
 
 const app = express();
 
