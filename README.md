@@ -8,7 +8,7 @@
   * [Questions](#questions)
   
   ## Installation
-  runs entirely in your browser
+  runs entirely in your browser! check it out [here](https://note-taker5000.herokuapp.com/notes)
 
   ## Questions
   Please direct all questions to:
